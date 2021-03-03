@@ -1,5 +1,5 @@
 ### Hi there 👋
-Young software engineer with a dual degree in computer science and mathematics. primarily interested in software development/engineering using modern technologies. Planning to persue a MSc degree in near future.
+Young software engineer with a dual degree in computer science and mathematics. primarily interested in software development/engineering using modern technologies. Planning to pursue an MSc degree in the near future.
 
 ![Turqays's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurqayUmudzade&show_icons=true&theme=radical)
 
